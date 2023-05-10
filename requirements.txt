@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.2
+chatterbot==1.0.4
+requests==2.30.0
+chatterbot-corpus==1.2.0
+SQLAlchemy==1.2.19
+nltk==3.8.1

@@ -1,0 +1,6 @@
+You: How are you doing?
+Health Bot: Good.
+You: Adalimumab
+Health Bot: 🔗 The link to the information about Adalimumab is: https://www.nhs.uk/medicines/adalimumab/
+You: What are the side effects of Adalimumab
+Health Bot: 🔗 Here you can learn more about the side effects of Adalimumab : https://www.nhs.uk/medicines/adalimumab/side-effects-of-Adalimumab
